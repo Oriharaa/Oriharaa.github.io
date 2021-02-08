@@ -19,7 +19,7 @@ tagline: ""
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description: >
-  아무것도 몰라서 일단 따라하면서 익히는 기술 블로그입니다.
+  아무것도 모르지만  일단 따라하면서 익히는 기술 블로그입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 oriharaa:
